@@ -23,14 +23,13 @@ Overview of Solutions<br>
     data$Activity <- replace(data$Activity, data$Activity == 6, "Laying")
     
     print(data)
-      Activity
-    1        1
-    2        2
-    3        3
-    4        4
-    5        5
-    6        6
-
+            Activity
+    1            Walking
+    2   Walking Upstairs
+    3 Walking Downstairs
+    4            Sitting
+    5           Standing
+    6             Laying
 
 **2) Join Related Solutions**
 
