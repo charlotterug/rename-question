@@ -9,7 +9,6 @@ Overview of Solutions<br>
   2a) Karthik's solution using the merge() function from Base R.<br>
   2b) A dplyr package method<br>
   2c) A sqldf package method<br>
-3) Greg Gunn's suggestion using the match() function from Base R.<br>
 
 **1) Original Solution**
 
