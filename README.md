@@ -3,13 +3,13 @@ Responses to Brian's Holbrook's question on other ways to rename a column
 
 At the <a href="http://www.meetup.com/Charlotte-R-Users-Group/events/230305585/">4/18/2016 Charlotte R Users Group meeting</a>, Brian Holbrook shared a snippet of code and asked the group for a better way to do this.
 
-Overview of Solutions
-1) The original code from Brian
-2) Solutions that involve joins
-  2a) Karthik's solution using the merge() function from Base R.
-  2b) A dplyr package method
-  2c) A sqldf package method
-3) Greg Gunn's suggestion using the match() function from Base R.
+Overview of Solutions<br>
+1) The original code from Brian<br>
+2) Solutions that involve joins<br>
+  2a) Karthik's solution using the merge() function from Base R.<br>
+  2b) A dplyr package method<br>
+  2c) A sqldf package method<br>
+3) Greg Gunn's suggestion using the match() function from Base R.<br>
 
 **1) Original Solution**
 
